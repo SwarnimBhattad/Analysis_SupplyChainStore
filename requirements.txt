@@ -1,0 +1,35 @@
+Requirements for Supply Chain Store Analytics
+
+Customer Insights
+
+1. Show all customers who joined in 2024
+2. Find the total number of male and female customers
+3. List all customers who have spent more than $10,000 in total
+4. Find customers who joined in the last 90 days and already made at least 1 purchase
+5. Which customers haven’t made any transactions in the last 6 months?
+6. Which city has the most customers?
+7. Customer visits by city
+8. Customer Demographics: Average age of customers buying each category
+
+Product Analytics
+
+1. List all products in the "Electronics" category
+2. Find the top 3 best-selling products (by quantity)
+3. Find the average quantity purchased per transaction for each product
+4. Calculate the profit per product
+
+Sales Performance
+
+1. Total sales revenue
+2. Sales by category
+3. Top 5 customers by spend
+4. Monthly sales trend
+5. Sales by payment method
+6. Store-wise performance
+7. Region-wise performance
+8. Sales growth percentage
+9. Year-over-year sales
+
+Advanced Analysis
+
+1. Find the most popular payment method per region
