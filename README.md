@@ -7,7 +7,7 @@ It covers sales, customers, products, and store performance, enabling insights i
 
 **Data Visualization using Power BI** - Created dashboard pages to visualise different charts to show necessary business details overview
 
-**Date created** - The project was completed on 10.10.2025.
+**Date created** - The project was completed on 10.10.2024.
 
 The project uses multiple data files like Products.csv, customers.csv, retail_sales.csv, transactions.csv
 
